@@ -1,0 +1,6937 @@
+[
+    {
+        "skin": "Blood Moon Aatrox",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Justicar Aatrox",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Lunar Eclipse Aatrox",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Mecha Aatrox",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Odyssey Aatrox",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Aatrox",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Sea Hunter Aatrox",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Academy Ahri",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Arcade Ahri",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Arcana Ahri",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Challenger Ahri",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Coven Ahri",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dynasty Ahri",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Elderwood Ahri",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Foxfire Ahri",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "K/DA Ahri",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "K/DA ALL OUT Ahri",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Midnight Ahri",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Popstar Ahri",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Spirit Blossom Ahri",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Star Guardian Ahri",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "All-star Akali",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Blood Moon Akali",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Crime City Nightmare Akali",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Headhunter Akali",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Infernal Akali",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "K/DA Akali",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "K/DA ALL OUT Akali",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Nurse Akali",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "PROJECT: Akali",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Sashimi Akali",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Silverfang Akali",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Star Guardian Akali",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Stinger Akali",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "True Damage Akali",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Crystal Rose Akshan",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Cyber Pop Akshan",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Akshan",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Blackfrost Alistar",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Conqueror Alistar",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Infernal Alistar",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Longhorn Alistar",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Lunar Beast Alistar",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Marauder Alistar",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Matador Alistar",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Moo Cow Alistar",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "SKT T1 Alistar",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Sweeper Alistar",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Almost-Prom King Amumu",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Emumu",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Infernal Amumu",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Little Knight Amumu",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Original Amumu",
+        "price_rp": "260",
+        "price_pln": 5
+    },
+    {
+        "skin": "Pharaoh Amumu",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Porcelain Amumu",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pumpkin Prince Amumu",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Re-Gifted Amumu",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Sad Robot Amumu",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Surprise Party Amumu",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Vancouver Amumu",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Bewitching Batnivia",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Bird of Prey Anivia",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Blackfrost Anivia",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Cosmic Flight Anivia",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Divine Phoenix Anivia",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Festival Queen Anivia",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Hextech Anivia",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Noxus Hunter Anivia",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Papercraft Anivia",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Prehistoric Anivia",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Team Spirit Anivia",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Annie in Wonderland",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Cafe Cuties Annie",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "FrankenTibbers Annie",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Fright Night Annie",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Frostfire Annie",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Lunar Beast Annie",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Annie",
+        "price_rp": "260",
+        "price_pln": 5
+    },
+    {
+        "skin": "Panda Annie",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Prom Queen Annie",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Red Riding Annie",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Reverse Annie",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Super Galaxy Annie",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Sweetheart Annie",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "EDG Aphelios",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Lunar Beast Aphelios",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Nightbringer Aphelios",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Aphelios",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Spirit Blossom Aphelios",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Amethyst Ashe",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Championship Ashe",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Cosmic Queen Ashe",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Coven Ashe",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Fae Dragon Ashe",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Freljord Ashe",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Heartseeker Ashe",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "High Noon Ashe",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Marauder Ashe",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Ocean Song Ashe",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Ashe",
+        "price_rp": "260",
+        "price_pln": 5
+    },
+    {
+        "skin": "PROJECT: Ashe",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Queen Ashe",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Sherwood Forest Ashe",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Woad Ashe",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Ashen Lord Aurelion Sol",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Mecha Aurelion Sol",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Aurelion Sol",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Storm Dragon Aurelion Sol",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Elderwood Azir",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Galactic Azir",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Gravelord Azir",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Azir",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "SKT T1 Azir",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Warring Kingdoms Azir",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Worlds 2022 Azir",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Astronaut Bard",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Bard Bard",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Cafe Cuties Bard",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Elderwood Bard",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Original Bard",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Snow Day Bard",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Battle Boss Bel'Veth",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Bel'Veth",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Battle Boss Blitzcrank",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Boom Boom Blitzcrank",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Definitely Not Blitzcrank",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Goalkeeper Blitzcrank",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Lancer Paragon Blitzcrank",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Lancer Rogue Blitzcrank",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Piltover Customs Blitzcrank",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Riot Blitzcrank",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Rusty Blitzcrank",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Space Groove Blitz & Crank",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Witch's Brew Blitzcrank",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Zenith Games Blitzcrank",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "iBlitzcrank",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Apocalyptic Brand",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Arclight Brand",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Battle Boss Brand",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Cryocore Brand",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Debonair Brand",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Eternal Dragon Brand",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Spirit Fire Brand",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Vandal Brand",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Zombie Brand",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Braum Lionheart",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Crime City Braum",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dragonslayer Braum",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "El Tigre Braum",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Braum",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Pool Party Braum",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Santa Braum",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Sugar Rush Braum",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Arcade Caitlyn",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Arcane Caitlyn",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Arctic Warfare Caitlyn",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Battle Academia Caitlyn",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Headhunter Caitlyn",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Lunar Wraith Caitlyn",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Officer Caitlyn",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Pool Party Caitlyn",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pulsefire Caitlyn",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Resistance Caitlyn",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Safari Caitlyn",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Sheriff Caitlyn",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Snow Moon Caitlyn",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Arcana Camille",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Coven Camille",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Camille",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Program Camille",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Strike Commander Camille",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "iG Camille",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Bewitching Cassiopeia",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Coven Cassiopeia",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Desperada Cassiopeia",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Eternum Cassiopeia",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Jade Fang Cassiopeia",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Mythic Cassiopeia",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Siren Cassiopeia",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Spirit Blossom Cassiopeia",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Battlecast Prime Cho'Gath",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Gentleman Cho'Gath",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Jurassic Cho'Gath",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Loch Ness Cho'Gath",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Nightmare Cho'Gath",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Prehistoric Cho'Gath",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Shan Hai Scrolls Cho'Gath",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Arcade Corki",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Astronaut Corki",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Corgi Corki",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dragonwing Corki",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Fnatic Corki",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Hot Rod Corki",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Ice Toboggan Corki",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Red Baron Corki",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Urfrider Corki",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Academy Darius",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Bioforge Darius",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Crime City Nightmare Darius",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dunkmaster Darius",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "God-King Darius",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "High Noon Darius",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Lord Darius",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Lunar Beast Darius",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Spirit Blossom Darius",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Woad King Darius",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Battle Queen Diana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Blood Moon Diana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dark Valkyrie Diana",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Dark Waters Diana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dragonslayer Diana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Firecracker Diana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Infernal Diana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Lunar Goddess Diana",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Sentinel Diana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Corporate Mundo",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "El Macho Mundo",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Executioner Mundo",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Frozen Prince Mundo",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Mr. Mundoverse",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Mundo Mundo",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Original Dr. Mundo",
+        "price_rp": "260",
+        "price_pln": 5
+    },
+    {
+        "skin": "Pool Party Mundo",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Rageborn Mundo",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "TPA Mundo",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Toxic Dr. Mundo",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Beast Hunter Draven",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Debonair Draven",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Fright Night Draven",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Gladiator Draven",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Mecha Kingdoms Draven",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pool Party Draven",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Primetime Draven",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Ruined Draven",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Santa Draven",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Soul Reaver Draven",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Academy Ekko",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Firelight Ekko",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Ekko",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "PROJECT: Ekko",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pulsefire Ekko",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "SKT T1 Ekko",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Sandstorm Ekko",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Star Guardian Ekko",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Trick or Treat Ekko",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "True Damage Ekko",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Bewitching Elise",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Blood Moon Elise",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Death Blossom Elise",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "SKT T1 Elise",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Super Galaxy Elise",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Withered Rose Elise",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Blood Moon Evelynn",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Coven Evelynn",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "K/DA Evelynn",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "K/DA ALL OUT Evelynn",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Masquerade Evelynn",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Safecracker Evelynn",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Shadow Evelynn",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Spirit Blossom Evelynn",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Sugar Rush Evelynn",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Tango Evelynn",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Ace of Spades Ezreal",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Arcade Ezreal",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Battle Academia Ezreal",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Debonair Ezreal",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Explorer Ezreal",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Frosted Ezreal",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Nottingham Ezreal",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Pajama Guardian Ezreal",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Porcelain Protector Ezreal",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "PsyOps Ezreal",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pulsefire Ezreal",
+        "price_rp": "3250",
+        "price_pln": 70
+    },
+    {
+        "skin": "SSG Ezreal",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Star Guardian Ezreal",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Striker Ezreal",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "TPA Ezreal",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Bandito Fiddlesticks",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Dark Candy Fiddlesticks",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Fiddle Me Timbers",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Praetorian Fiddlesticks",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pumpkinhead Fiddlesticks",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Risen Fiddlesticks",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Spectral Fiddlesticks",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Star Nemesis Fiddlesticks",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Surprise Party Fiddlesticks",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Union Jack Fiddlesticks",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Bewitching Fiora",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Headmistress Fiora",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Heartpiercer Fiora",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Lunar Beast Fiora",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Nightraven Fiora",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "PROJECT: Fiora",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pool Party Fiora",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pulsefire Fiora",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Royal Guard Fiora",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Soaring Sword Fiora",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "iG Fiora",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Atlantean Fizz",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Cottontail Fizz",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Fisherman Fizz",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Fuzz Fizz",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Little Devil Fizz",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Omega Squad Fizz",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Super Galaxy Fizz",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Tundra Fizz",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Void Fizz",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Birdio",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Commando Galio",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Debonair Galio",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Dragon Guardian Galio",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Enchanted Galio",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Gatekeeper Galio",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Hextech Galio",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Infernal Galio",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Captain Gangplank",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Dreadnova Gangplank",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "FPX Gangplank",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Gangplank the Betrayer",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Minuteman Gangplank",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Pool Party Gangplank",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Sailor Gangplank",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Special Forces Gangplank",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Spooky Gangplank",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Sultan Gangplank",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Toy Soldier Gangplank",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Battle Academia Garen",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Commando Garen",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Demacia Vice Garen",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Desert Trooper Garen",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Dreadknight Garen",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "God-King Garen",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Mecha Kingdoms Garen",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Garen",
+        "price_rp": "260",
+        "price_pln": 5
+    },
+    {
+        "skin": "Rogue Admiral Garen",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Rugged Garen",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Sanguine Garen",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Steel Legion Garen",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Warring Kingdoms Garen",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Astronaut Gnar",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dino Gnar",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "El Le\u00f3n Gnar",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Elderwood Gnar",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Gentleman Gnar",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Original Gnar",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "SSG Gnar",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Snow Day Gnar",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Super Galaxy Gnar",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Arctic Ops Gragas",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Fnatic Gragas",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Gragas Caskbreaker",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Gragas, Esq.",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Hillbilly Gragas",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Oktoberfest Gragas",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Santa Gragas",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Scuba Gragas",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Superfan Gragas",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Vandal Gragas",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Warden Gragas",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Battle Professor Graves",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Crime City Graves",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Cutthroat Graves",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "EDG Graves",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Hired Gun Graves",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Jailbreak Graves",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Pool Party Graves",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Praetorian Graves",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Riot Graves",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Sentinel Graves",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Snow Day Graves",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Cafe Cuties Gwen",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Gwen",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Space Groove Gwen",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Arcade Hecarim",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Arcana Hecarim",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Blood Knight Hecarim",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Cosmic Charger Hecarim",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Elderwood Hecarim",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Headless Hecarim",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "High Noon Hecarim",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Reaper Hecarim",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Worldbreaker Hecarim",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Alien Invader Heimerdinger",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Blast Zone Heimerdinger",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Dragon Trainer Heimerdinger",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Hazmat Heimerdinger",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Heimerstinger",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Piltover Customs Heimerdinger",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Pool Party Heimerdinger",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Snowmerdinger",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Cosmic Invoker Illaoi",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Illaoi",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Resistance Illaoi",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Snow Moon Illaoi",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Void Bringer Illaoi",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Aviator Irelia",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Divine Sword Irelia",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Frostblade Irelia",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "High Noon Irelia",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Infiltrator Irelia",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Nightblade Irelia",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Order of the Lotus Irelia",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "PROJECT: Irelia",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Sentinel Irelia",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "iG Irelia",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Candy King Ivern",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dunkmaster Ivern",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Old God Ivern",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Ivern",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Battle Queen Janna",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Bewitching Janna",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Crystal Rose Janna",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Cyber Halo Janna",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Fnatic Janna",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Forecast Janna",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Frost Queen Janna",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Guardian of the Sands Janna",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Hextech Janna",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Sacred Sword Janna",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Star Guardian Janna",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Tempest Janna",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Commando Jarvan IV",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Dark Star Jarvan IV",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Darkforge Jarvan IV",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Dragonslayer Jarvan IV",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Fnatic Jarvan IV",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Lunar Beast Jarvan IV",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pool Party Jarvan IV",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "SSG Jarvan IV",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Warring Kingdoms Jarvan IV",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Worlds 2021 Jarvan IV",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Angler Jax",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Conqueror Jax",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Empyrean Jax",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "God Staff Jax",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Jaximus",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Mecha Kingdoms Jax",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Nemesis Jax",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "SKT T1 Jax",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Temple Jax",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "The Mighty Jax",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Vandal Jax",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Warden Jax",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Arcane Jayce",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Battle Academia Jayce",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Debonair Jayce",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Forsaken Jayce",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Full Metal Jayce",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Jayce Brighthammer",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Resistance Jayce",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Zenith Games Jayce",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Blood Moon Jhin",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "DWG Jhin",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dark Cosmic Jhin",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Empyrean Jhin",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "High Noon Jhin",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Jhin",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "PROJECT: Jhin",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "SKT T1 Jhin",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Shan Hai Scrolls Jhin",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Ambitious Elf Jinx",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Arcane Jinx",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Battle Cat Jinx",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Crime City Jinx",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Firecracker Jinx",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Heartseeker Jinx",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Odyssey Jinx",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Jinx",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "PROJECT: Jinx",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Star Guardian Jinx",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Zombie Slayer Jinx",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Empyrean K'Sante",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original K'Sante",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Arcade Kai'Sa",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Bullet Angel Kai'Sa",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "K/DA Kai'Sa",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "K/DA ALL OUT Kai'Sa",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Lagoon Dragon Kai'Sa",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Kai'Sa",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Star Guardian Kai'Sa",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "iG Kai'Sa",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Blood Moon Kalista",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Championship Kalista",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Marauder Kalista",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Kalista",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "SKT T1 Kalista",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Conqueror Karma",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Dark Star Karma",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Odyssey Karma",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Order of the Lotus Karma",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Ruined Karma",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Sakura Karma",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Sun Goddess Karma",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Traditional Karma",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Tranquility Dragon Karma",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Warden Karma",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Winter Wonder Karma",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Fnatic Karthus",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Grim Reaper Karthus",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Infernal Karthus",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Karthus Lightsbane",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Pentakill Karthus",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Pentakill III: Lost Chapter Karthus",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Statue of Karthus",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Cosmic Reaver Kassadin",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Count Kassadin",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Deep One Kassadin",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Festival Kassadin",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Harbinger Kassadin",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Pre-Void Kassadin",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Shockblade Kassadin",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Battle Academia Katarina",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Battle Queen Katarina",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Bilgewater Katarina",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Blood Moon Katarina",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Death Sworn Katarina",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "High Command Katarina",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "High Noon Katarina",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Kitty Cat Katarina",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Mercenary Katarina",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "PROJECT: Katarina",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Red Card Katarina",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Sandstorm Katarina",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Slay Belle Katarina",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Warring Kingdoms Katarina",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Aether Wing Kayle",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Battleborn Kayle",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Dragonslayer Kayle",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Iron Inquisitor Kayle",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Original Kayle",
+        "price_rp": "260",
+        "price_pln": 5
+    },
+    {
+        "skin": "Pentakill Kayle",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pentakill III: Lost Chapter Kayle",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "PsyOps Kayle",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Riot Kayle",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Sun-Eater Kayle",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Transcended Kayle",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Viridian Kayle",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Nightbringer Kayn",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Odyssey Kayn",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Original Kayn",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Snow Moon Kayn",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Soulhunter Kayn",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Arctic Ops Kennen",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Blood Moon Kennen",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "DWG Kennen",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Deadly Kennen",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Infernal Kennen",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Karate Kennen",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Kennen M.D.",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Super Kennen",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Swamp Master Kennen",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Championship Kha'Zix",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dark Star Kha'Zix",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Death Blossom Kha'Zix",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Guardian of the Sands Kha'Zix",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Mecha Kha'Zix",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Odyssey Kha'Zix",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Kindred",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Porcelain Kindred",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Shadowfire Kindred",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Spirit Blossom Kindred",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Super Galaxy Kindred",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Count Kledula",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Marauder Kled",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Kled",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Sir Kled",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Arcanist Kog'Maw",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Battlecast Kog'Maw",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Bee'Maw",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Caterpillar Kog'Maw",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Deep Sea Kog'Maw",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Jurassic Kog'Maw",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Lion Dance Kog'Maw",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Monarch Kog'Maw",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Pug'Maw",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Reindeer Kog'Maw",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Sonoran Kog'Maw",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Zap'Maw",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Bewitching LeBlanc",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Championship LeBlanc",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Coven LeBlanc",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Debonair LeBlanc",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Elderwood LeBlanc",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Mistletoe LeBlanc",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Prestigious LeBlanc",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Program LeBlanc",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Ravenborn LeBlanc",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Wicked LeBlanc",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "iG LeBlanc",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Acolyte Lee Sin",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Dragon Fist Lee Sin",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "FPX Lee Sin",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "God Fist Lee Sin",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Knockout Lee Sin",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Muay Thai Lee Sin",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Nightbringer Lee Sin",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Playmaker Lee Sin",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Pool Party Lee Sin",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "SKT T1 Lee Sin",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Storm Dragon Lee Sin",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Traditional Lee Sin",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Zenith Games Lee Sin",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Barbecue Leona",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Battle Academia Leona",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "DWG Leona",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Debonair Leona",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Defender Leona",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "High Noon Leona",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Iron Solari Leona",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Lunar Eclipse Leona",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Mecha Kingdoms Leona",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "PROJECT: Leona",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pool Party Leona",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Solar Eclipse Leona",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Valkyrie Leona",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Nightbringer Lillia",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Lillia",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Spirit Blossom Lillia",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Blade Queen Lissandra",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Bloodstone Lissandra",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Coven Lissandra",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dark Cosmic Lissandra",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Lissandra",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Porcelain Lissandra",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Program Lissandra",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Arcana Lucian",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Demacia Vice Lucian",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Heartseeker Lucian",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "High Noon Lucian",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Hired Gun Lucian",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Original Lucian",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "PROJECT: Lucian",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pulsefire Lucian",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Strike Paladin Lucian",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Striker Lucian",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Bittersweet Lulu",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Cosmic Enchantress Lulu",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dragon Trainer Lulu",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Monster Tamer Lulu",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pajama Guardian Lulu",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pool Party Lulu",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Space Groove Lulu",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Star Guardian Lulu",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Wicked Lulu",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Winter Wonder Lulu",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Battle Academia Lux",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Commando Lux",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Cosmic Lux",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Dark Cosmic Lux",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Elementalist Lux",
+        "price_rp": "3250",
+        "price_pln": 70
+    },
+    {
+        "skin": "Empyrean Lux",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Imperial Lux",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Lunar Empress Lux",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pajama Guardian Lux",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Porcelain Lux",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Sorceress Lux",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Space Groove Lux",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Spellthief Lux",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Star Guardian Lux",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Steel Legion Lux",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Coral Reef Malphite",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Dark Star Malphite",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "FPX Malphite",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Glacial Malphite",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Ironside Malphite",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Marble Malphite",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Mecha Malphite",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Obsidian Malphite",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Odyssey Malphite",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Old God Malphite",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Shamrock Malphite",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Battle Boss Malzahar",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Beezahar",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Debonair Malzahar",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Djinn Malzahar",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Overlord Malzahar",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Shadow Prince Malzahar",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Snow Day Malzahar",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Vizier Malzahar",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Worldbreaker Malzahar",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Astronaut Maokai",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Charred Maokai",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Festive Maokai",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Goalkeeper Maokai",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Haunted Maokai",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Meowkai",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Totemic Maokai",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Worldbreaker Maokai",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Blood Moon Master Yi",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Chosen Master Yi",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Cosmic Blade Master Yi",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Debonair Master Yi",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Eternal Sword Yi",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Headhunter Master Yi",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Ionia Master Yi",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Original Master Yi",
+        "price_rp": "260",
+        "price_pln": 5
+    },
+    {
+        "skin": "PROJECT: Yi",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "PsyOps Master Yi",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Samurai Yi",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Snow Man Yi",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Spirit Blossom Master Yi",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Arcade Miss Fortune",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Battle Bunny Miss Fortune",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Bewitching Miss Fortune",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Candy Cane Miss Fortune",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Captain Fortune",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Cowgirl Miss Fortune",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Crime City Miss Fortune",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Gun Goddess Miss Fortune",
+        "price_rp": "2775",
+        "price_pln": 60
+    },
+    {
+        "skin": "Pajama Guardian Miss Fortune",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pool Party Miss Fortune",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Road Warrior Miss Fortune",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Ruined Miss Fortune",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Secret Agent Miss Fortune",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Star Guardian Miss Fortune",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Waterloo Miss Fortune",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Dark Star Mordekaiser",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dragon Knight Mordekaiser",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "High Noon Mordekaiser",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Infernal Mordekaiser",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "King of Clubs Mordekaiser",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Lord Mordekaiser",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "PROJECT: Mordekaiser",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Pentakill Mordekaiser",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Pentakill III: Lost Chapter Mordekaiser",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Bewitching Morgana",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Blackthorn Morgana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Blade Mistress Morgana",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Coven Morgana",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Dawnbringer Morgana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Exiled Morgana",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Ghost Bride Morgana",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Lunar Wraith Morgana",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Majestic Empress Morgana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Sinful Succulence Morgana",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Star Nemesis Morgana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Bewitching Nami",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Cosmic Destiny Nami",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Deep Sea Nami",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Koi Nami",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Program Nami",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "River Spirit Nami",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "SKT T1 Nami",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Splendid Staff Nami",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Urf the Nami-tee",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Archduke Nasus",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Armored Titan Nasus",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Battlecast Nasus",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dreadknight Nasus",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Galactic Nasus",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Infernal Nasus",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Lunar Guardian Nasus",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pharaoh Nasus",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Riot K-9 Nasus",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Space Groove Nasus",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Worldbreaker Nasus",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Abyssal Nautilus",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "AstroNautilus",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Conqueror Nautilus",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Fright Night Nautilus",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Shan Hai Scrolls Nautilus",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Subterranean Nautilus",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Warden Nautilus",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Worldbreaker Nautilus",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Bewitching Neeko",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Neeko",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Shan Hai Scrolls Neeko",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Star Guardian Neeko",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Winter Wonder Neeko",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Bewitching Nidalee",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Challenger Nidalee",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Cosmic Huntress Nidalee",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "DWG Nidalee",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dawnbringer Nidalee",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "French Maid Nidalee",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Headhunter Nidalee",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Leopard Nidalee",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Ocean Song Nidalee",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pharaoh Nidalee",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Snow Bunny Nidalee",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Super Galaxy Nidalee",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Warring Kingdoms Nidalee",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Original Nilah",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Star Guardian Nilah",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Cursed Revenant Nocturne",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Eternum Nocturne",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Frozen Terror Nocturne",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Haunting Nocturne",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Old God Nocturne",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Ravager Nocturne",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Void Nocturne",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Demolisher Nunu & Willump",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Grungy Nunu & Willump",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Nunu & Beelump",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Nunu & Willump Bot",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Original Nunu & Willump",
+        "price_rp": "260",
+        "price_pln": 5
+    },
+    {
+        "skin": "Papercraft Nunu & Willump",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Sasquatch Nunu & Willump",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Space Groove Nunu & Willump",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "TPA Nunu & Willump",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Workshop Nunu & Willump",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Zombie Nunu & Willump",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Brolaf",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Butcher Olaf",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Dragonslayer Olaf",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Forsaken Olaf",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Glacial Olaf",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Marauder Olaf",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Pentakill Olaf",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Pentakill III: Lost Chapter Olaf",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "SKT T1 Olaf",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Sentinel Olaf",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Bladecraft Orianna",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Dark Star Orianna",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Gothic Orianna",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Heartseeker Orianna",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Orbeeanna",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pool Party Orianna",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Sewn Chaos Orianna",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "TPA Orianna",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Winter Wonder Orianna",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Elderwood Ornn",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Ornn",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Thunder Lord Ornn",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Baker Pantheon",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Dragonslayer Pantheon",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Full Metal Pantheon",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Glaive Warrior Pantheon",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Myrmidon Pantheon",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Perseus Pantheon",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Pulsefire Pantheon",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Ruined Pantheon",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Ruthless Pantheon",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Zombie Slayer Pantheon",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Astronaut Poppy",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Battle Regalia Poppy",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Bewitching Poppy",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Blacksmith Poppy",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Lollipoppy",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Noxus Poppy",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Original Poppy",
+        "price_rp": "260",
+        "price_pln": 5
+    },
+    {
+        "skin": "Ragdoll Poppy",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Scarlet Hammer Poppy",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Snow Fawn Poppy",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Star Guardian Poppy",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Blood Moon Pyke",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Empyrean Pyke",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Original Pyke",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "PROJECT: Pyke",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "PsyOps Pyke",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Sand Wraith Pyke",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Sentinel Pyke",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Battle Boss Qiyana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Battle Queen Qiyana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Qiyana",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Shockblade Qiyana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "True Damage Qiyana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Corsair Quinn",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Heartseeker Quinn",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Phoenix Quinn",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Star Guardian Quinn",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Warden Quinn",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Woad Scout Quinn",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Arcana Rakan",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Cosmic Dawn Rakan",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Elderwood Rakan",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Rakan",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "SSG Rakan",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Star Guardian Rakan",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Sweetheart Rakan",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "iG Rakan",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Astronaut Rammus",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Chrome Rammus",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Freljord Rammus",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Full Metal Rammus",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Guardian of the Sands Rammus",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Molten Rammus",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Ninja Rammus",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Sweeper Rammus",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Blackfrost Rek'Sai",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Elderwood Rek'Sai",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Eternum Rek'Sai",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Rek'Sai",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Pool Party Rek'Sai",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Battle Queen Rell",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Rell",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Star Guardian Rell",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Admiral Glasc",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Fright Night Renata Glasc",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Renata Glasc",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Blackfrost Renekton",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Bloodfury Renekton",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Galactic Renekton",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Outback Renekton",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "PROJECT: Renekton",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Pool Party Renekton",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Prehistoric Renekton",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Renektoy",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Rune Wars Renekton",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "SKT T1 Renekton",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Scorched Earth Renekton",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Guardian of the Sands Rengar",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Headhunter Rengar",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Mecha Rengar",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Night Hunter Rengar",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Pretty Kitty Rengar",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "SSW Rengar",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Sentinel Rengar",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Arcade Riven",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Battle Bunny Riven",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Battle Bunny Prime Riven",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Championship Riven",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Championship Riven 2016",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Crimson Elite Riven",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Dawnbringer Riven",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Dragonblade Riven",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pulsefire Riven",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Redeemed Riven",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Sentinel Riven",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Spirit Blossom Riven",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Valiant Sword Riven",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Badlands Baron Rumble",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Bilgerat Rumble",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Rumble in the Jungle",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Space Groove Rumble",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Super Galaxy Rumble",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Arcana Ryze",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Championship Ryze",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dark Crystal Ryze",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Guardian of the Sands Ryze",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Ryze",
+        "price_rp": "260",
+        "price_pln": 5
+    },
+    {
+        "skin": "Pirate Ryze",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Professor Ryze",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Ryze Whitebeard",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "SKT T1 Ryze",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Tribal Ryze",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Uncle Ryze",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Zombie Ryze",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "High Noon Samira",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Samira",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "PsyOps Samira",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Space Groove Samira",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Bear Cavalry Sejuani",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Beast Hunter Sejuani",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Darkrider Sejuani",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Firecracker Sejuani",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "PROJECT: Sejuani",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Poro Rider Sejuani",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Sabretusk Sejuani",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Sejuani Dawnchaser",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Solar Eclipse Sejuani",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Traditional Sejuani",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Bewitching Senna",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "High Noon Senna",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Lunar Eclipse Senna",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Senna",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "PROJECT: Senna",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "True Damage Senna",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Graceful Phoenix Seraphine",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "K/DA ALL OUT Seraphine Indie",
+        "price_rp": "3250",
+        "price_pln": 70
+    },
+    {
+        "skin": "Ocean Song Seraphine",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Seraphine",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Firecracker Sett",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Mecha Kingdoms Sett",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Obsidian Dragon Sett",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Sett",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Pool Party Sett",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Spirit Blossom Sett",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Arcanist Shaco",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Asylum Shaco",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Crime City Nightmare Shaco",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dark Star Shaco",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Mad Hatter Shaco",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Masked Shaco",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Nutcracko",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Royal Shaco",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Wild Card Shaco",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Workshop Shaco",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Blood Moon Shen",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Frozen Shen",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Infernal Shen",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "PsyOps Shen",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pulsefire Shen",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Shockblade Shen",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Surgeon Shen",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "TPA Shen",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Warlord Shen",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Yellow Jacket Shen",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Boneclaw Shyvana",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Championship Shyvana",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Darkflame Shyvana",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Ice Drake Shyvana",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Ironscale Shyvana",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Ruined Shyvana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Super Galaxy Shyvana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Augmented Singed",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Beekeeper Singed",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Black Scourge Singed",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Hextech Singed",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Mad Scientist Singed",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Original Singed",
+        "price_rp": "260",
+        "price_pln": 5
+    },
+    {
+        "skin": "Resistance Singed",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Riot Squad Singed",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "SSW Singed",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Snow Day Singed",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Surfer Singed",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Barbarian Sion",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Blackfrost Sion",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Hextech Sion",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "High Noon Sion",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Lumberjack Sion",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Mecha Zero Sion",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Warmonger Sion",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Worldbreaker Sion",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Bandit Sivir",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Blood Moon Sivir",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Cafe Cuties Sivir",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Odyssey Sivir",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Sivir",
+        "price_rp": "260",
+        "price_pln": 5
+    },
+    {
+        "skin": "Pizza Delivery Sivir",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Snowstorm Sivir",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Solar Eclipse Sivir",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Spectacular Sivir",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Warden Sivir",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Warrior Princess Sivir",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Battlecast Alpha Skarner",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Cosmic Sting Skarner",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Earthrune Skarner",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Guardian of the Sands Skarner",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Sandscourge Skarner",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Arcade Sona",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "DJ Sona",
+        "price_rp": "3250",
+        "price_pln": 70
+    },
+    {
+        "skin": "Guqin Sona",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Muse Sona",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Odyssey Sona",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pentakill Sona",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Pentakill III: Lost Chapter Sona",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "PsyOps Sona",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Silent Night Sona",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Star Guardian Sona",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Sweetheart Sona",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Cafe Cuties Soraka",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Celestine Soraka",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Dawnbringer Soraka",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Divine Soraka",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Dryad Soraka",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Nightbringer Soraka",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Order of the Banana Soraka",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Original Soraka",
+        "price_rp": "260",
+        "price_pln": 5
+    },
+    {
+        "skin": "Pajama Guardian Soraka",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Program Soraka",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Reaper Soraka",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Spirit Blossom Soraka",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Star Guardian Soraka",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Winter Wonder Soraka",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Bilgewater Swain",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Crystal Rose Swain",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dragon Master Swain",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Northern Front Swain",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Tyrant Swain",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Battle Wolf Sylas",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Freljord Sylas",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Lunar Wraith Sylas",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Sylas",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "PROJECT: Sylas",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Atlantean Syndra",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Bewitching Syndra",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Justicar Syndra",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Pool Party Syndra",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Queen of Diamonds Syndra",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "SKT T1 Syndra",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Snow Day Syndra",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Spirit Blossom Syndra",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Star Guardian Syndra",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Withered Rose Syndra",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Arcana Tahm Kench",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Coin Emperor Tahm Kench",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "High Noon Tahm Kench",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Master Chef Tahm Kench",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Original Tahm Kench",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Urf Kench",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Freljord Taliyah",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Taliyah",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Pool Party Taliyah",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "SSG Taliyah",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Star Guardian Taliyah",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Blood Moon Talon",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Crimson Elite Talon",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Dragonblade Talon",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Enduring Sword Talon",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "High Noon Talon",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Renegade Talon",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "SSW Talon",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Talon Blackwood",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Withered Rose Talon",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Armor of the Fifth Age Taric",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Bloodstone Taric",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Emerald Taric",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Pool Party Taric",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Taric Luminshield",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Astronaut Teemo",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Badger Teemo",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Beemo",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Cottontail Teemo",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Firecracker Teemo",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Happy Elf Teemo",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Little Devil Teemo",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Omega Squad Teemo",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Panda Teemo",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Recon Teemo",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Spirit Blossom Teemo",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Super Teemo",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Blood Moon Thresh",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Championship Thresh",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Dark Star Thresh",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Deep Terror Thresh",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "FPX Thresh",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "High Noon Thresh",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pulsefire Thresh",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "SSW Thresh",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Spirit Blossom Thresh",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Steel Dragon Thresh",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Unbound Thresh",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Bewitching Tristana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Buccaneer Tristana",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Dragon Trainer Tristana",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Earnest Elf Tristana",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Firecracker Tristana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Firefighter Tristana",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Guerilla Tristana",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Little Demon Tristana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Omega Squad Tristana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pengu Cosplay Tristana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Rocket Girl Tristana",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Spirit Blossom Tristana",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Constable Trundle",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Dragonslayer Trundle",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Fright Night Trundle",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Junkyard Trundle",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Lil' Slugger Trundle",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Traditional Trundle",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Worldbreaker Trundle",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Beast Hunter Tryndamere",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Blood Moon Tryndamere",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Chemtech Tryndamere",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Demonblade Tryndamere",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Highland Tryndamere",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "King Tryndamere",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Nightbringer Tryndamere",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Nightmare Tryndamere",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Sultan Tryndamere",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Viking Tryndamere",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Warring Kingdoms Tryndamere",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Blood Moon Twisted Fate",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Crime City Nightmare Twisted Fate",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Cutpurse Twisted Fate",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "DWG Twisted Fate",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "High Noon Twisted Fate",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Jack of Hearts Twisted Fate",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Musketeer Twisted Fate",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Odyssey Twisted Fate",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pulsefire Twisted Fate",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Red Card Twisted Fate",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Tango Twisted Fate",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "The Magnificent Twisted Fate",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Underworld Twisted Fate",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Crime City Twitch",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Dragonslayer Twitch",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "High Noon Twitch",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Ice King Twitch",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Kingpin Twitch",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Omega Squad Twitch",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pickpocket Twitch",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "SSW Twitch",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Twitch Shadowfoot",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Vandal Twitch",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Whistler Village Twitch",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Black Belt Udyr",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Definitely Not Udyr",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Dragon Oracle Udyr",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Primal Udyr",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Spirit Guard Udyr",
+        "price_rp": "3250",
+        "price_pln": 70
+    },
+    {
+        "skin": "Battlecast Urgot",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Butcher Urgot",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Fright Night Urgot",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Giant Enemy Crabgot",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "High Noon Urgot",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pajama Guardian Cosplay Urgot",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Arclight Varus",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Arctic Ops Varus",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Blight Crystal Varus",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Conqueror Varus",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Cosmic Hunter Varus",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dark Star Varus",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Heartseeker Varus",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "High Noon Varus",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Infernal Varus",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "PROJECT: Varus",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Varus Swiftbolt",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Arclight Vayne",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Aristocrat Vayne",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Battle Bat Vayne",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dragonslayer Vayne",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "FPX Vayne",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Firecracker Vayne",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Heartseeker Vayne",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "PROJECT: Vayne",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "SKT T1 Vayne",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Sentinel Vayne",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Spirit Blossom Vayne",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Vindicator Vayne",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Astronaut Veigar",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Bad Santa Veigar",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Baron Von Veigar",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Curling Veigar",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Elderwood Veigar",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Final Boss Veigar",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Furyhorn Cosplay Veigar",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Leprechaun Veigar",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Monster Tamer Veigar",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Omega Squad Veigar",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Superb Villain Veigar",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Veigar Greybeard",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Arclight Vel'Koz",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Battlecast Vel'Koz",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Blackfrost Vel'Koz",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Definitely Not Vel'Koz",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Infernal Vel'Koz",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Vel'Koz",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Dawnbringer Vex",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Empyrean Vex",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Vex",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Arcane Vi",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Debonair Vi",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Demon Vi",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Heartbreaker Vi",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Neon Strike Vi",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Officer Vi",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "PROJECT: Vi",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "PsyOps Vi",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Warring Kingdoms Vi",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dissonance of Pentakill Viego",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "EDG Viego",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "King Viego",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Lunar Beast Viego",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Viego",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Creator Viktor",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Death Sworn Viktor",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Full Machine Viktor",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "High Noon Viktor",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Prototype Viktor",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "PsyOps Viktor",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Academy Vladimir",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Blood Lord Vladimir",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Cafe Cuties Vladimir",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Cosmic Devourer Vladimir",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Count Vladimir",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Dark Waters Vladimir",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Marquis Vladimir",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Nightbringer Vladimir",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Nosferatu Vladimir",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Soulstealer Vladimir",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Vandal Vladimir",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Captain Volibear",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Duality Dragon Volibear",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "El Rayo Volibear",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Northern Storm Volibear",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Runeguard Volibear",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "The Thousand-Pierced Bear",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Thunder Lord Volibear",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Big Bad Warwick",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Feral Warwick",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Firefang Warwick",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Hyena Warwick",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Lunar Guardian Warwick",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Marauder Warwick",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Old God Warwick",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Warwick",
+        "price_rp": "260",
+        "price_pln": 5
+    },
+    {
+        "skin": "PROJECT: Warwick",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Tundra Hunter Warwick",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Battle Academia Wukong",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "General Wukong",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Jade Dragon Wukong",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Lancer Stratus Wukong",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Radiant Wukong",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Underworld Wukong",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Volcanic Wukong",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Arcana Xayah",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Brave Phoenix Xayah",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Cosmic Dusk Xayah",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Elderwood Xayah",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Xayah",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "SSG Xayah",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Star Guardian Xayah",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Sweetheart Xayah",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Arcana Xerath",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Battlecast Xerath",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Dark Star Xerath",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Guardian of the Sands Xerath",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Runeborn Xerath",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Scorched Earth Xerath",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Commando Xin Zhao",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Cosmic Defender Xin Zhao",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dragonslayer Xin Zhao",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Firecracker Xin Zhao",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Imperial Xin Zhao",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Marauder Xin Zhao",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Secret Agent Xin Zhao",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Viscero Xin Zhao",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Warring Kingdoms Xin Zhao",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Winged Hussar Xin Zhao",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Battle Boss Yasuo",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Blood Moon Yasuo",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Dream Dragon Yasuo",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "High Noon Yasuo",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Nightbringer Yasuo",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Odyssey Yasuo",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Yasuo",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "PROJECT: Yasuo",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Sea Dog Yasuo",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Spirit Blossom Yasuo",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "True Damage Yasuo",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Truth Dragon Yasuo",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Battle Academia Yone",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dawnbringer Yone",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Ocean Song Yone",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Yone",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Spirit Blossom Yone",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Arclight Yorick",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Meowrick",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pentakill Yorick",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Pentakill III: Lost Chapter Yorick",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Resistance Yorick",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Spirit Blossom Yorick",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Undertaker Yorick",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Battle Principal Yuumi",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Bewitching Yuumi",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "EDG Yuumi",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Heartseeker Yuumi",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Yuumi",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Yuubee",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Battlecast Zac",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Empyrean Zac",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Zac",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Pool Party Zac",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "SKT T1 Zac",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Special Weapon Zac",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Championship Zed",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Death Sworn Zed",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Debonair Zed",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "Empyrean Zed",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Galaxy Slayer Zed",
+        "price_rp": "1820",
+        "price_pln": 40
+    },
+    {
+        "skin": "PROJECT: Zed",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "PsyOps Zed",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "SKT T1 Zed",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Shockblade Zed",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Ocean Song Zeri",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Zeri",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Withered Rose Zeri",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "BZZZiggs",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Battle Boss Ziggs",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Mad Scientist Ziggs",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Major Ziggs",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Master Arcanist Ziggs",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Odyssey Ziggs",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Pool Party Ziggs",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Snow Day Ziggs",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Sugar Rush Ziggs",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Blood Moon Zilean",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Groovy Zilean",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Old Saint Zilean",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Shurima Desert Zilean",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Sugar Rush Zilean",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Time Machine Zilean",
+        "price_rp": "520",
+        "price_pln": 10
+    },
+    {
+        "skin": "Arcanist Zoe",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Cyber Pop Zoe",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "EDG Zoe",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Original Zoe",
+        "price_rp": "975",
+        "price_pln": 20
+    },
+    {
+        "skin": "Pool Party Zoe",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Star Guardian Zoe",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Coven Zyra",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Crime City Nightmare Zyra",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Crystal Rose Zyra",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Dragon Sorceress Zyra",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "Haunted Zyra",
+        "price_rp": "1350",
+        "price_pln": 30
+    },
+    {
+        "skin": "SKT T1 Zyra",
+        "price_rp": "750",
+        "price_pln": 15
+    },
+    {
+        "skin": "Wildfire Zyra",
+        "price_rp": "975",
+        "price_pln": 20
+    }
+]
