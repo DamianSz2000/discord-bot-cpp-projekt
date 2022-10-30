@@ -42,10 +42,14 @@ int main()
                 champion_picking_process(event, bot);
             }
         }
-        else if (event.custom_id == "champion_name_0" or event.custom_id == "champion_name_1" or event.custom_id == "champion_name_2" or event.custom_id == "champion_name_3" or event.custom_id == "champion_name_4" or event.custom_id == "champion_name_5" or event.custom_id == "champion_name_6" or event.custom_id == "champion_name_7") {
+        else if (event.custom_id == "champion_name_0" or event.custom_id == "champion_name_1" or event.custom_id == "champion_name_2" or event.custom_id == "champion_name_3" or event.custom_id == "champion_name_4" or event.custom_id == "champion_name_5" or event.custom_id == "champion_name_6") {
 			delete_all_messages(bot, event);
             skin_picking_process(skins, event, bot);
 		}
+        else if (event.custom_id == "skin_select") {
+            delete_all_messages(bot, event);
+            create_order_summary(bot, "Skin", event);
+        }
         event.reply();
     });
 

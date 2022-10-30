@@ -27,3 +27,5 @@ void delete_all_messages(dpp::cluster& bot, const dpp::select_click_t& event);
 void champion_picking_process(const dpp::select_click_t& event, dpp::cluster& bot);
 
 void skin_picking_process(const std::vector<skin>& skins, const dpp::select_click_t& event, dpp::cluster& bot);
+
+void create_order_summary(dpp::cluster& bot, const std::string& order_type, const dpp::select_click_t& event);
