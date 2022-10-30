@@ -34,6 +34,9 @@ int main()
         else if (event.custom_id == "order") {
             create_customer_ticket(bot, event);
         }
+        else if (event.custom_id == "claim_ticket") {
+            claim_ticket(bot, event);
+        }
     });
     bot.on_select_click([&bot, &skins](const dpp::select_click_t& event) {
         if (event.custom_id == "order_type") {

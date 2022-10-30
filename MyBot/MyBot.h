@@ -29,3 +29,5 @@ void champion_picking_process(const dpp::select_click_t& event, dpp::cluster& bo
 void skin_picking_process(const std::vector<skin>& skins, const dpp::select_click_t& event, dpp::cluster& bot);
 
 void create_order_summary(dpp::cluster& bot, const std::string& order_type, const dpp::select_click_t& event);
+
+void claim_ticket(dpp::cluster& bot, const dpp::button_click_t& event);

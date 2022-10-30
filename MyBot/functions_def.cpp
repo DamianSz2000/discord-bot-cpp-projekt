@@ -108,21 +108,19 @@ void champion_picking_process(const dpp::select_click_t& event, dpp::cluster& bo
 
 void skin_picking_process(const std::vector<skin>& skins, const dpp::select_click_t& event, dpp::cluster& bot)
 {
-    std::vector<dpp::select_option> select_menu_skins;
+    embed.set_color(dpp::colors::green).set_description("Available skins for this champion:");
+    dpp::component select_menu = dpp::component();
+    select_menu.type = dpp::cot_selectmenu;
+    select_menu.custom_id = "skin_select";
     for (auto& s : skins) {
         if (s.name.find(event.values[0]) != std::string::npos) {
             dpp::select_option option;
             option.label = s.name;
             option.value = s.name;
-            option.description = "Price: " + s.price_rp + " RP - " + std::to_string(s.price_zl) + " ZL";
-            select_menu_skins.push_back(option);
+            option.description = "Price: " + s.price_rp + " RP - " + std::to_string(s.price_zl) + u8" zł";
+            select_menu.add_select_option(option);
         }
     }
-    embed.set_color(dpp::colors::green).set_description("Available skins for this champion:");
-    dpp::component select_menu = dpp::component();
-    select_menu.type = dpp::cot_selectmenu;
-    select_menu.custom_id = "skin_select";
-    select_menu.options = select_menu_skins;
     dpp::message m = dpp::message(event.command.channel_id, embed);
     m.add_component(dpp::component().add_component(select_menu));
     bot.message_create(m);
@@ -130,6 +128,14 @@ void skin_picking_process(const std::vector<skin>& skins, const dpp::select_clic
 
 void create_order_summary(dpp::cluster& bot, const std::string& order_type, const dpp::select_click_t& event) {
     if (order_type == "Skin") {
+        auto options = event.command.msg.components[0].components[0].options;
+        int index = 0;
+        for (auto& option : options) {
+            if (option.value == event.values[0]) {
+                break;
+            }
+            index++;
+        }
         embed.set_color(dpp::colors::green)
             .set_title("Order summary:")
             .set_author("KretoSmurfsBot", "", "")
@@ -146,11 +152,40 @@ void create_order_summary(dpp::cluster& bot, const std::string& order_type, cons
             )
             .add_field(
                 "Price:",
-                event.values[0],
+				event.command.msg.components[0].components[0].options[index].description.substr(6, std::string::npos),
                 true
             )
             .set_footer(dpp::embed_footer().set_text("Support will be with you shortly."))
             .set_timestamp(time(0));
     }
-	bot.message_create(dpp::message(event.command.channel_id, embed));
+    bot.message_create(dpp::message(event.command.channel_id, embed).add_component(dpp::component().add_component(dpp::component()
+        .set_type(dpp::cot_button)
+        .set_style(dpp::cos_secondary)
+        .set_label("Claim ticket!")
+        .set_emoji(u8"🫴")
+        .set_id("claim_ticket")
+    )));
+}
+
+void claim_ticket(dpp::cluster& bot, const dpp::button_click_t& event)
+{
+    auto roles = event.command.member.roles;
+    for (auto& role : roles) {
+        if (role == 1036018560864100353) {
+			auto avatar = event.command.usr.get_avatar_url();
+            embed = dpp::embed();
+			embed.set_color(dpp::colors::green)
+				.set_author(event.command.usr.username, "", avatar)
+				.set_thumbnail(avatar)
+				.set_description("Ticket claimed by "+ event.command.usr.get_mention())
+				.set_footer(dpp::embed_footer().set_text("Thank you for choosing KretoSmurfs!"))
+				.set_timestamp(time(0));
+			bot.message_create(dpp::message(event.command.channel_id, embed));
+            auto msg = event.command.msg;
+            msg.components.clear();
+			bot.message_edit(msg);
+			break;
+		}
+	}
+    event.reply();
 }
