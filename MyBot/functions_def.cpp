@@ -184,6 +184,9 @@ void claim_ticket(dpp::cluster& bot, const dpp::button_click_t& event)
             auto msg = event.command.msg;
             msg.components.clear();
 			bot.message_edit(msg);
+            bot.channel_get(event.command.channel_id, [&bot](const dpp::command_completion_event_t& event) {
+                    
+            });
 			break;
 		}
 	}
