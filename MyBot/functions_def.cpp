@@ -184,6 +184,10 @@ void claim_ticket(dpp::cluster& bot, const dpp::button_click_t& event)
             auto msg = event.command.msg;
             msg.components.clear();
 			bot.message_edit(msg);
+            dpp::snowflake channel_id = event.command.msg.channel_id;
+            bot.channel_get(channel_id, [&bot](const dpp::confirmation_callback_t event) {
+                auto channel = std::get<dpp::channel>(event.value);
+                });
 			break;
 		}
 	}
