@@ -138,7 +138,7 @@ void create_order_summary(dpp::cluster& bot, const std::string& order_type, cons
         }
         embed.set_color(dpp::colors::green)
             .set_title("Order summary:")
-            .set_author("KretoSmurfsBot", "", "")
+            .set_author(event.command.usr.username, "", "")
             .set_thumbnail("https://cdn.discordapp.com/avatars/1029407551927877642/c15d91efdf415267a3abf0731f5c564f.png")
             .set_description("Your order is as follows:")
             .add_field(
@@ -155,7 +155,7 @@ void create_order_summary(dpp::cluster& bot, const std::string& order_type, cons
 				event.command.msg.components[0].components[0].options[index].description.substr(6, std::string::npos),
                 true
             )
-            .set_footer(dpp::embed_footer().set_text("Support will be with you shortly."))
+            .set_footer(dpp::embed_footer().set_text(std::to_string(event.command.usr.id)))
             .set_timestamp(time(0));
     }
     bot.message_create(dpp::message(event.command.channel_id, embed).add_component(dpp::component().add_component(dpp::component()
@@ -185,8 +185,11 @@ void claim_ticket(dpp::cluster& bot, const dpp::button_click_t& event)
             msg.components.clear();
 			bot.message_edit(msg);
             dpp::snowflake channel_id = event.command.msg.channel_id;
-            bot.channel_get(channel_id, [&bot](const dpp::confirmation_callback_t event) {
-                auto channel = std::get<dpp::channel>(event.value);
+            bot.channel_get(channel_id, [&bot, &event](const dpp::confirmation_callback_t event2) {
+                auto channel = std::get<dpp::channel>(event2.value);
+                dpp::embed_footer user_id = event.command.msg.embeds[0].footer.value();
+                
+                
                 });
 			break;
 		}
