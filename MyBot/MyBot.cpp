@@ -4,6 +4,7 @@
 #include <dpp/nlohmann/json.hpp>
 #include "MyBot.h"
 #include <vector>
+#include <SQLiteCpp/SQLiteCpp.h>
 
 const std::string    BOT_TOKEN    = "MTAyOTQwNzU1MTkyNzg3NzY0Mg.GopC_c.HKqKsARW3y52DRdQDb1m2img9XNAjXgL-cxMGc";
 

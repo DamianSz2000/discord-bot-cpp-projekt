@@ -70,7 +70,7 @@ void delete_all_messages(dpp::cluster& bot, const dpp::select_click_t& event)
                 bot.message_delete(message.second.id, message.second.channel_id);
             }
         }
-        });
+    });
 }
 
 void champion_picking_process(const dpp::select_click_t& event, dpp::cluster& bot)
