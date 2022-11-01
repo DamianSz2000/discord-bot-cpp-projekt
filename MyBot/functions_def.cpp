@@ -186,7 +186,7 @@ void claim_ticket(dpp::cluster& bot, const dpp::button_click_t& event)
 			bot.message_edit(msg);
             dpp::snowflake channel_id = event.command.msg.channel_id;
             dpp::snowflake user_id = std::stoull(event.command.msg.embeds[0].footer.value().text);
-            bot.channel_get(channel_id, [&bot, &event, &user_id](const dpp::confirmation_callback_t event2) {
+            bot.channel_get(channel_id, [&bot, event, user_id](const dpp::confirmation_callback_t event2) {
                 auto channel = std::get<dpp::channel>(event2.value);
                 channel.add_permission_overwrite(user_id, dpp::ot_member, dpp::p_send_messages+dpp::p_view_channel, 0);
                 bot.channel_edit(channel);
