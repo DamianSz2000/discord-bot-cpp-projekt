@@ -47,6 +47,7 @@ void create_customer_ticket(dpp::cluster& bot, const dpp::button_click_t& event)
     bot.channel_create(dpp::channel().set_guild_id(event.command.guild_id).set_name("ticket-" + event.command.usr.username).add_permission_overwrite(event.command.usr.id, dpp::ot_member, 0x00000000400, 0x00000000800).add_permission_overwrite(1026781667353972746, dpp::ot_role, 0, 0x00000000400), [&bot](const dpp::confirmation_callback_t& event) {
         if (!event.is_error()) {
             auto channel = std::get<dpp::channel>(event.value);
+            embed = dpp::embed();
             embed.set_color(dpp::colors::green).set_description("Choose order type!");
             bot.message_create(dpp::message(channel.id, embed).add_component(dpp::component().add_component(
                 dpp::component()
