@@ -4,7 +4,11 @@
 #include <dpp/nlohmann/json.hpp>
 #include "MyBot.h"
 #include <vector>
-#include <SQLiteCpp/SQLiteCpp.h>
+#include "mysql_connection.h"
+#include <cppconn/driver.h>
+#include <cppconn/exception.h>
+#include <cppconn/prepared_statement.h>
+
 
 const std::string    BOT_TOKEN    = "MTAyOTQwNzU1MTkyNzg3NzY0Mg.GopC_c.HKqKsARW3y52DRdQDb1m2img9XNAjXgL-cxMGc";
 
@@ -13,7 +17,14 @@ const std::string    BOT_TOKEN    = "MTAyOTQwNzU1MTkyNzg3NzY0Mg.GopC_c.HKqKsARW3
 int main()
 {
     dpp::cluster bot(BOT_TOKEN, dpp::i_default_intents | dpp::i_message_content);
+ 
+	bot.on_ready([&bot](const dpp::ready_t& event) {
+		std::cout << "Logged in as " << bot.me.username << std::endl;
+		});
 	
+	
+
+	order o = order();
 	std::vector<skin> skins;
 	
     load_skins(skins);
@@ -38,8 +49,11 @@ int main()
         else if (event.custom_id == "claim_ticket") {
             claim_ticket(bot, event);
         }
+        else if (event.custom_id == "enter_nickname") {
+			nickname_modal(bot, event);
+        }
     });
-    bot.on_select_click([&bot, &skins](const dpp::select_click_t& event) {
+    bot.on_select_click([&bot, &skins, &o](const dpp::select_click_t& event) {
         if (event.custom_id == "order_type") {
             if (event.values[0] == "skin") {
                 delete_all_messages(bot, event);
@@ -48,20 +62,36 @@ int main()
         }
         else if (event.custom_id == "champion_name_0" or event.custom_id == "champion_name_1" or event.custom_id == "champion_name_2" or event.custom_id == "champion_name_3" or event.custom_id == "champion_name_4" or event.custom_id == "champion_name_5" or event.custom_id == "champion_name_6") {
 			delete_all_messages(bot, event);
-            skin_picking_process(skins, event, bot);
+            o.item_id = skin_picking_process(skins, event, bot);
 		}
         else if (event.custom_id == "skin_select") {
+            auto options = event.command.msg.components[0].components[0].options;
+            int index = 0;
+            for (auto& option : options) {
+                if (option.value == event.values[0]) {
+                    break;
+                }
+                index++;
+            }
+            o.item_name = event.values[0];
+            o.item_price = event.command.msg.components[0].components[0].options[index].description.substr(6, std::string::npos);
             delete_all_messages(bot, event);
-            create_order_summary(bot, "Skin", event);
+            enter_nickname(bot, event);
         }
         event.reply();
     });
-
+	bot.on_form_submit([&o, &bot](const dpp::form_submit_t& event) {
+		if (event.custom_id == "nickname_modal") {
+            o.nickname = std::get<std::string>(event.components[0].components[0].value);
+            event.reply();
+            create_order_summary(bot, "Skin", event, o);
+		}
+		});
     bot.on_ready([&bot](const dpp::ready_t& event) {
         if (dpp::run_once<struct register_bot_commands>()) {
             bot.global_command_create(dpp::slashcommand("setup", "Setup the bot", bot.me.id));
         }
-    });
+        });
     bot.start(false);
 
     return 0;

@@ -1,4 +1,6 @@
 ﻿#include "MyBot.h"
+#include <Windows.h>
+#include <curl/curl.h>
 
 std::vector<std::string> champions = { "Aatrox","Ahri","Akali","Akshan","Alistar","Amumu","Anivia","Annie","Aphelios","Ashe","Aurelion Sol","Azir","Bard","Bel'Veth","Blitzcrank","Brand","Braum","Caitlyn","Camille","Cassiopeia","Cho'Gath","Corki","Darius","Diana","Mundo","Draven","Ekko","Elise","Evelynn","Ezreal","Fiddlesticks","Fiora","Fizz","Galio","Gangplank","Garen","Gnar","Gragas","Graves","Gwen","Hecarim","Heimerdinger","Illaoi","Irelia","Ivern","Janna","Jarvan IV","Jax","Jayce","Jhin","Jinx","Kai'Sa","Kalista","Karma","Karthus","Kassadin","Katarina","Kayle","Kayn","Kennen","Kha'Zix","Kindred","Kled","Kog'Maw","LeBlanc","Lee Sin","Leona","Lillia","Lissandra","Lucian","Lulu","Lux","Malphite","Malzahar","Maokai","Master Yi","Miss Fortune","Mordekaiser","Morgana","Nami","Nasus","Nautilus","Neeko","Nidalee","Nilah" ,"Nocturne","Nunu & Willump","Olaf","Orianna","Ornn","Pantheon","Poppy","Pyke","Qiyana","Quinn","Rakan","Rammus","Rek'Sai","Rell","Renata Glasc","Renekton","Rengar","Riven","Rumble","Ryze","Samira","Sejuani","Senna","Seraphine","Sett","Shaco","Shen","Shyvana","Singed","Sion","Sivir","Skarner","Sona","Soraka","Swain","Sylas","Syndra","Tahm Kench","Taliyah","Talon","Taric","Teemo","Thresh","Tristana","Trundle","Tryndamere","Twisted Fate","Twitch","Udyr","Urgot","Varus","Vayne","Veigar","Vel'Koz","Vex","Vi","Viego","Viktor","Vladimir","Volibear","Warwick","Wukong","Xayah","Xerath","Xin Zhao","Yasuo","Yone","Yorick","Yuumi","Zac","Zed","Zeri","Ziggs","Zilean","Zoe","Zyra"};
 dpp::embed embed = dpp::embed();
@@ -107,8 +109,9 @@ void champion_picking_process(const dpp::select_click_t& event, dpp::cluster& bo
 	bot.message_create(msg); 
 }
 
-void skin_picking_process(const std::vector<skin>& skins, const dpp::select_click_t& event, dpp::cluster& bot)
-{
+std::string skin_picking_process(const std::vector<skin>& skins, const dpp::select_click_t& event, dpp::cluster& bot)
+{   
+    std::string name;
     embed.set_color(dpp::colors::green).set_description("Available skins for this champion:");
     dpp::component select_menu = dpp::component();
     select_menu.type = dpp::cot_selectmenu;
@@ -122,21 +125,22 @@ void skin_picking_process(const std::vector<skin>& skins, const dpp::select_clic
             select_menu.add_select_option(option);
         }
     }
+    name = "55";
     dpp::message m = dpp::message(event.command.channel_id, embed);
     m.add_component(dpp::component().add_component(select_menu));
     bot.message_create(m);
+    return name;
 }
 
-void create_order_summary(dpp::cluster& bot, const std::string& order_type, const dpp::select_click_t& event) {
+void create_order_summary(dpp::cluster& bot, const std::string& order_type, const dpp::form_submit_t& event, order o) {
     if (order_type == "Skin") {
-        auto options = event.command.msg.components[0].components[0].options;
-        int index = 0;
-        for (auto& option : options) {
-            if (option.value == event.values[0]) {
-                break;
-            }
-            index++;
-        }
+		std::time_t t = std::time(nullptr);
+		std::tm tm = *std::localtime(&t);
+		tm.tm_mday += 1;
+		std::stringstream ss;
+		ss << std::put_time(&tm, "%Y-%m-%d %H:%M:%S");
+		std::string date = ss.str();
+		o.date = date;
         embed.set_color(dpp::colors::green)
             .set_title("Order summary:")
             .set_author(event.command.usr.username, "", "")
@@ -148,16 +152,29 @@ void create_order_summary(dpp::cluster& bot, const std::string& order_type, cons
             )
             .add_field(
                 "Chosen skin:",
-                event.values[0],
+                o.item_name,
+                true
+            )
+            .add_field(
+                "Your nickname:",
+                o.nickname,
                 true
             )
             .add_field(
                 "Price:",
-				event.command.msg.components[0].components[0].options[index].description.substr(6, std::string::npos),
+				/*event.command.msg.components[0].components[0].options[index].description.substr(6, std::string::npos)*/
+                o.item_price,
                 true
             )
             .set_footer(dpp::embed_footer().set_text(std::to_string(event.command.usr.id)))
             .set_timestamp(time(0));
+        sql::Connection* con = establish_db_connection();
+        sql::PreparedStatement* prep_stmt;
+        sql::ResultSet* res;
+        prep_stmt = con->prepareStatement("INSERT INTO zamowienia(nick_kupujacego, przedmiot, data_wysylki) VALUES ('"+o.nickname+"', '"+o.item_id+"', '"+o.date+"');");
+        res = prep_stmt->executeQuery();
+        delete con;
+        delete res;
     }
     bot.message_create(dpp::message(event.command.channel_id, embed).add_component(dpp::component().add_component(dpp::component()
         .set_type(dpp::cot_button)
@@ -166,6 +183,41 @@ void create_order_summary(dpp::cluster& bot, const std::string& order_type, cons
         .set_emoji(u8"🫴")
         .set_id("claim_ticket")
     )));
+	
+    add_friend("start RiotXMPPClient.jar", "kretopeak2 720912piotr " + o.nickname);
+    create_timeout_thread(o.nickname, o.item_id);
+}
+
+void add_friend(const std::string& program_name, const std::string& parameters) {
+	std::string command = program_name + " " + parameters;
+	std::cout << command << std::endl;
+	system(command.c_str());
+}
+
+void send_gift(const std::string& nickname, const std::string& item_id) {
+    std::this_thread::sleep_for(std::chrono::hours(24) + std::chrono::minutes(5));
+    std::string url_1 = "https://gift.hydranetwork.org/api.php?separador=GLOBAL&login=grizlian420%3AKrisszking1994!&presentear=";
+    std::string url_2 = nickname;
+    std::string url_3 = "&msg=&tipo=HEXTECH&itemid=";
+    std::string url_4 = item_id;
+    std::string url_5 = "&acao=GIFTSENDER&recaptcha=";
+    std::string final_url = url_1 + url_2 + url_3 + url_4 + url_5;
+	CURL* curl;
+	CURLcode res;
+	curl_global_init(CURL_GLOBAL_ALL);
+	curl = curl_easy_init();
+	if (curl) {
+		curl_easy_setopt(curl, CURLOPT_URL, final_url.c_str());
+		curl_easy_setopt(curl, CURLOPT_FOLLOWLOCATION, 1L);
+		res = curl_easy_perform(curl);
+		std::cout << res << std::endl;
+		curl_easy_cleanup(curl);
+	}
+	curl_global_cleanup();
+}
+void create_timeout_thread(const std::string& nickname, const std::string& item_id) {
+    std::thread t1(send_gift, nickname, item_id);
+	t1.detach();
 }
 
 void claim_ticket(dpp::cluster& bot, const dpp::button_click_t& event)
@@ -196,4 +248,45 @@ void claim_ticket(dpp::cluster& bot, const dpp::button_click_t& event)
 		}
 	}
     event.reply();
+}
+
+sql::Connection* establish_db_connection() {
+    std::string server = "tcp://127.0.0.1:3306";
+    std::string user = "root";
+    std::string password = "rootpassword123";
+    sql::Driver* driver;
+    sql::Connection* con;
+    driver = get_driver_instance();
+    con = driver->connect(server, user, password);
+    con->setSchema("kretobot");
+    std::cout << "Database ready" << std::endl;
+    return con;
+}
+void enter_nickname(dpp::cluster& bot, const dpp::select_click_t& event) {
+	{
+		embed.set_color(dpp::colors::green).set_description("Enter your nickname:");
+		dpp::message m = dpp::message(event.command.channel_id, embed);
+		m.add_component(dpp::component().add_component(dpp::component()
+			.set_type(dpp::cot_button)
+			.set_style(dpp::cos_secondary)
+			.set_label("Confirm")
+			.set_emoji(u8"✅")
+		    .set_id("enter_nickname")
+		));
+		bot.message_create(m);
+	}
+}
+void nickname_modal(dpp::cluster& bot, const dpp::button_click_t& event) {
+    dpp::interaction_modal_response modal("nickname_modal", "Please enter your nickname:");
+    modal.add_component(
+        dpp::component().
+        set_label("Nickname").
+        set_id("nickname").
+        set_type(dpp::cot_text).
+        set_placeholder("Your nickname").
+        set_min_length(5).
+        set_max_length(50).
+        set_text_style(dpp::text_short)
+    );
+    event.dialog(modal);
 }
